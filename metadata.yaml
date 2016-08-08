@@ -1,0 +1,30 @@
+_repo: Cousin-Hatty-s-Hymns-and-Twilight-Stories_12007
+_version: 0.0.1
+contributor:
+  publisher_contributors:
+  - agent_name: Crosby, William
+    birthdate: 1818
+    deathdate: 1907
+    gutenberg_agent_id: '4604'
+    url: http://www.gutenberg.org/2009/agents/4604
+  - agent_name: Nichols, H. P.
+    gutenberg_agent_id: '4172'
+    url: http://www.gutenberg.org/2009/agents/4172
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2004-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Hymns'
+- !lcsh 'Children''s poetry'
+- !lcsh 'Religious poetry, American -- Juvenile literature'
+- GITenberg
+title: Cousin Hatty's Hymns and Twilight Stories
+url: http://www.gutenberg.org/ebooks/12007
